@@ -1,6 +1,6 @@
 {
   "name": "proyecto-guiado",
-  "homepage": "https://valeolivares.github.io/weather",
+  "homepage": "https://valeolivares.github.io/weather/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
